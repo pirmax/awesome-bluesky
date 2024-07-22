@@ -250,6 +250,7 @@ or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on B
 | [Atlas](https://bsky.jazco.dev)                                         | An Engagement-based social graph for Bluesky |                                                              |
 | [Interaction graphic](https://wolfgang.raios.xyz/interactions)          | Interaction image generator for past 7-days  |                                                              |
 | [Posting Leaderboards](https://vqv.app/stats)                           | Posting Leaderboards                         |                                                              |
+| [Skycle.app](https://skycle.app)                                                   | Visualize your circle of friends on Bluesky                                                                                                                     |                                                               |
 | [Twt Mutual Finder](https://github.com/kawamataryo/sky-follower-bridge) | Twitter Mutual Finder                        | [Source](https://github.com/kawamataryo/sky-follower-bridge) |
 
 ## Videos
