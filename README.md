@@ -9,13 +9,16 @@ resources for libraries, clients, bots, etc.
 Do you know of another tool? Either submit it here as a [pull request](https://github.com/pirmax/awesome-bluesky/pulls),
 or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on Bluesky.
 
-**When using third-party apps, please always use an [app password](https://bsky.app/settings/app-passwords) and never your master password!**
+**When using third-party apps, please always use an [app password](https://bsky.app/settings/app-passwords) and never
+your master password!**
 
 ## Table of Contents
 
+- [Favorites](#favorites)
 - [Alternative Clients](#alternative-clients)
 - [API](#api)
 - [Clients](#clients)
+- [Custom Handles](#custom-handles)
 - [Bots](#bots)
 - [Feeds](#feeds)
 - [Languages](#languages)
@@ -24,6 +27,14 @@ or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on B
 - [Statistics](#statistics)
 - [User Interactions](#user-interactions)
 - [Videos](#videos)
+
+## Favorites
+
+| Name                               | Description                                                               | Source |
+|:-----------------------------------|:--------------------------------------------------------------------------|:-------|
+| [Bluesky.bot](https://bluesky.bot) | Claim your handle.bluesky.bot username if you have a bot on Bluesky.      |        |
+| [Q&A.blue](https://qna.blue)       | A popular Questions & Answers messaging platform for the next generation. |        |
+| [Skycle.app](https://skycle.app)   | Visualize your circle of friends on Bluesky                               |        |
 
 ## Alternative Clients
 
@@ -56,6 +67,14 @@ or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on B
 | [Kite](https://kite.black)                            | Web client for Bluesky                                     |        |
 | [SkeetDeck](https://tokimekibluesky.vercel.app/login) | TweetDeck Clone                                            |        |
 | [SkyFeed](https://skyfeed.app)                        | Alternative web client with a powerful custom feed builder |        |
+
+## Custom Handles
+
+| Name                                       | Description                                                          | Source |
+|:-------------------------------------------|:---------------------------------------------------------------------|:-------|
+| [Bluesky.bot](https://bluesky.bot)         | Claim your handle.bluesky.bot username if you have a bot on Bluesky. |        |
+| [Swifties.social](https://swifties.social) | Get your own swifties.social handle for Bluesky                      |        |
+| [SkyName](https://www.skyname.io)          | Get Your Personalized Bluesky Handle!                                |        |
 
 ## Bots
 
@@ -219,7 +238,7 @@ or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on B
 | [NightSky](https://github.com/asamaree/NightSky)                                   | NightSky is a browser extension that transforms your BlueSky social experience into a sleek, dark interface that's easy on the eyes                             |                                                               |
 | [Polls](https://poll.blue)                                                         | Create a poll on Bluesky                                                                                                                                        |                                                               |
 | [psky.app](https://github.com/ianklatzco/psky.app/)                                | Replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc                                                                                     |                                                               |
-| [QNA.blue](https://qna.blue)                                                       | A popular Questions & Answers messaging platform for the next generation.                                                                                       |                                                               |
+| [Q&A.blue](https://qna.blue)                                                       | A popular Questions & Answers messaging platform for the next generation.                                                                                       |                                                               |
 | [Send Bluesky Post](https://github.com/marketplace/actions/send-bluesky-post)      | A GitHub Actions workflow to send a post to Bluesky                                                                                                             | [Source](https://github.com/myConsciousness/bluesky-post)     |
 | [skeet](https://crates.io/crates/skeet)                                            | A simple command line tool to create text posts                                                                                                                 | [Source](https://github.com/sharunkumar/skeet)                |
 | [SkyBridge](https://skybridge.fly.dev/)                                            | Proxy between Bluesky and Mastodon                                                                                                                              |                                                               |
@@ -250,7 +269,7 @@ or just tell me about it ([@pirmax.fr](https://bsky.app/profile/pirmax.fr)) on B
 | [Atlas](https://bsky.jazco.dev)                                         | An Engagement-based social graph for Bluesky |                                                              |
 | [Interaction graphic](https://wolfgang.raios.xyz/interactions)          | Interaction image generator for past 7-days  |                                                              |
 | [Posting Leaderboards](https://vqv.app/stats)                           | Posting Leaderboards                         |                                                              |
-| [Skycle.app](https://skycle.app)                                                   | Visualize your circle of friends on Bluesky                                                                                                                     |                                                               |
+| [Skycle.app](https://skycle.app)                                        | Visualize your circle of friends on Bluesky  |                                                              |
 | [Twt Mutual Finder](https://github.com/kawamataryo/sky-follower-bridge) | Twitter Mutual Finder                        | [Source](https://github.com/kawamataryo/sky-follower-bridge) |
 
 ## Videos
