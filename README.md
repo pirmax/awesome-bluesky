@@ -252,15 +252,16 @@ your master password!**
 
 ## Statistics
 
-| Name                                                  | Description                                                                                                                 | Source                                                          |
-|:------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
-| [Atlas](https://bsky.jazco.dev)                       | Engagement based social graph                                                                                               |                                                                 |
-| [Bluesky Heatmap](https://bluesky-heatmap.fly.dev)    | Bluesky Posts Heatmap Generator                                                                                             | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
-| [Bluesky Stats](https://vqv.app/stats)                | Stats and top lists                                                                                                         |                                                                 |
-| [Firesky](https://firesky.tv)                         | BlueSky Firehose visualiser                                                                                                 | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
-| [SkeetDeck](https://tokimekibluesky.vercel.app/login) | Bluesky Tweetdeck client                                                                                                    | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
-| [Twexit.nl](https://twexit.nl)                        | Self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. |                                                                 |
-| [Wolfgang](https://wolfgang.raios.xyz)                | Charts, interactions, social circles, top lists                                                                             |                                                                 |
+| Name                                                                 | Description                                                                                                                 | Source                                                          |
+|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
+| [Atlas](https://bsky.jazco.dev)                                      | Engagement based social graph                                                                                               |                                                                 |
+| [ATProto PDS Tracker](https://github.com/pirmax/atproto-pds-tracker) | This project automatically tracks, crawls and visualizes the ATProto PDS endpoints indexed in the official PLC directory.   | [Source](https://github.com/pirmax/atproto-pds-tracker)         |
+| [Bluesky Heatmap](https://bluesky-heatmap.fly.dev)                   | Bluesky Posts Heatmap Generator                                                                                             | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
+| [Bluesky Stats](https://vqv.app/stats)                               | Stats and top lists                                                                                                         |                                                                 |
+| [Firesky](https://firesky.tv)                                        | BlueSky Firehose visualiser                                                                                                 | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
+| [SkeetDeck](https://tokimekibluesky.vercel.app/login)                | Bluesky Tweetdeck client                                                                                                    | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
+| [Twexit.nl](https://twexit.nl)                                       | Self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. |                                                                 |
+| [Wolfgang](https://wolfgang.raios.xyz)                               | Charts, interactions, social circles, top lists                                                                             |                                                                 |
 
 ## User Interactions
 
