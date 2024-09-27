@@ -30,11 +30,12 @@ your master password!**
 
 ## Favorites
 
-| Name                               | Description                                                               | Source |
-|:-----------------------------------|:--------------------------------------------------------------------------|:-------|
-| [Bluesky.bot](https://bluesky.bot) | Claim your handle.bluesky.bot username if you have a bot on Bluesky.      |        |
-| [Q&A.blue](https://qna.blue)       | A popular Questions & Answers messaging platform for the next generation. |        |
-| [Skycle.app](https://skycle.app)   | Visualize your circle of friends on Bluesky                               |        |
+| Name                                   | Description                                                               | Source |
+|:---------------------------------------|:--------------------------------------------------------------------------|:-------|
+| [Bluesky.bot](https://bluesky.bot)     | Claim your handle.bluesky.bot username if you have a bot on Bluesky.      |        |
+| [Q&A.blue](https://qna.blue)           | A popular Questions & Answers messaging platform for the next generation. |        |
+| [Skycle.app](https://skycle.app)       | Visualize your circle of friends on Bluesky                               |        |
+| [Unfollow.blue](https://unfollow.blue) | Discover who’s unfollowing you on the Bluesky Network!                    |        |
 
 ## Alternative Clients
 
@@ -249,6 +250,7 @@ your master password!**
 | [SkyTools](https://skytools.anon5r.com/)                                           | User handle history and DID look up tool                                                                                                                        |                                                               |
 | [Skyview](https://skyview.social/)                                                 | View and share BlueSky threads without needing a BlueSky account.                                                                                               |                                                               |
 | [sunblock](https://github.com/trozzelle/sunblock)                                  | Script to block spam accounts that follow you                                                                                                                   |                                                               |
+| [Unfollow.blue](https://unfollow.blue)                                             | Discover who’s unfollowing you on the Bluesky Network!                                                                                                          |                                                               |
 
 ## Statistics
 
@@ -262,16 +264,18 @@ your master password!**
 | [SkeetDeck](https://tokimekibluesky.vercel.app/login)                | Bluesky Tweetdeck client                                                                                                    | [Source](https://github.com/aliceisjustplaying/bluesky-heatmap) |
 | [Twexit.nl](https://twexit.nl)                                       | Self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. |                                                                 |
 | [Wolfgang](https://wolfgang.raios.xyz)                               | Charts, interactions, social circles, top lists                                                                             |                                                                 |
+| [Unfollow.blue](https://unfollow.blue)                               | Discover who’s unfollowing you on the Bluesky Network!                                                                      |                                                                 |
 
 ## User Interactions
 
-| Name                                                                    | Description                                  | Source                                                       |
-|:------------------------------------------------------------------------|:---------------------------------------------|:-------------------------------------------------------------|
-| [Atlas](https://bsky.jazco.dev)                                         | An Engagement-based social graph for Bluesky |                                                              |
-| [Interaction graphic](https://wolfgang.raios.xyz/interactions)          | Interaction image generator for past 7-days  |                                                              |
-| [Posting Leaderboards](https://vqv.app/stats)                           | Posting Leaderboards                         |                                                              |
-| [Skycle.app](https://skycle.app)                                        | Visualize your circle of friends on Bluesky  |                                                              |
-| [Twt Mutual Finder](https://github.com/kawamataryo/sky-follower-bridge) | Twitter Mutual Finder                        | [Source](https://github.com/kawamataryo/sky-follower-bridge) |
+| Name                                                                    | Description                                            | Source                                                       |
+|:------------------------------------------------------------------------|:-------------------------------------------------------|:-------------------------------------------------------------|
+| [Atlas](https://bsky.jazco.dev)                                         | An Engagement-based social graph for Bluesky           |                                                              |
+| [Interaction graphic](https://wolfgang.raios.xyz/interactions)          | Interaction image generator for past 7-days            |                                                              |
+| [Posting Leaderboards](https://vqv.app/stats)                           | Posting Leaderboards                                   |                                                              |
+| [Skycle.app](https://skycle.app)                                        | Visualize your circle of friends on Bluesky            |                                                              |
+| [Twt Mutual Finder](https://github.com/kawamataryo/sky-follower-bridge) | Twitter Mutual Finder                                  | [Source](https://github.com/kawamataryo/sky-follower-bridge) |
+| [Unfollow.blue](https://unfollow.blue)                                  | Discover who’s unfollowing you on the Bluesky Network! |                                                              |
 
 ## Videos
 
