@@ -30,12 +30,13 @@ your master password!**
 
 ## Favorites
 
-| Name                                   | Description                                                               | Source |
-|:---------------------------------------|:--------------------------------------------------------------------------|:-------|
-| [Bluesky.bot](https://bluesky.bot)     | Claim your handle.bluesky.bot username if you have a bot on Bluesky.      |        |
-| [Q&A.blue](https://qna.blue)           | A popular Questions & Answers messaging platform for the next generation. |        |
-| [Skycle.app](https://skycle.app)       | Visualize your circle of friends on Bluesky                               |        |
-| [Unfollow.blue](https://unfollow.blue) | Discover who’s unfollowing you on the Bluesky Network!                    |        |
+| Name                                                                                 | Description                                                               | Source                                                   |
+|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|:---------------------------------------------------------|
+| [Bluesky.bot](https://bluesky.bot)                                                   | Claim your handle.bluesky.bot username if you have a bot on Bluesky.      |                                                          |
+| [Bluesky/AtProto OAuth with Next.JS](https://github.com/pirmax/bluesky-oauth-nextjs) | ATProto Feed Generator Starter Kit                                        | [Source](https://github.com/pirmax/bluesky-oauth-nextjs) |
+| [Q&A.blue](https://qna.blue)                                                         | A popular Questions & Answers messaging platform for the next generation. |                                                          |
+| [Skycle.app](https://skycle.app)                                                     | Visualize your circle of friends on Bluesky                               |                                                          |
+| [Unfollow.blue](https://unfollow.blue)                                               | Discover who’s unfollowing you on the Bluesky Network!                    |                                                          |
 
 ## Alternative Clients
 
@@ -180,6 +181,7 @@ your master password!**
 | [ATProto Starter Kit for deno](https://github.com/sharunkumar/atproto-starter-kit)                      | ATProto Starter Kit for deno                                               | [Source](https://github.com/sharunkumar/atproto-starter-kit)        |
 | [Azure](https://github.com/ajroberts0417/azure)                                                         | Web client for Bluesky using Next.js                                       | [Source](https://github.com/ajroberts0417/azure)                    |
 | [at.syui.ai](https://at.syui.ai/)                                                                       | Web client for Bluesky using Vue                                           | [Source](https://github.com/syui/at.syui.ai)                        |
+| [Bluesky/AtProto OAuth with Next.JS](https://github.com/pirmax/bluesky-oauth-nextjs)                    | ATProto Feed Generator Starter Kit                                         | [Source](https://github.com/pirmax/bluesky-oauth-nextjs)            |
 | [boobeeblue](https://github.com/KingYoSun/boobeeblue)                                                   | Web client for Bluesky using Next.js                                       | [Source](https://github.com/KingYoSun/boobeeblue)                   |
 | [Bluesky client for Mac, Linux and Windows](https://github.com/pram11/Jet)                              | Bluesky client for Mac, Linux and Windows                                  | [Source](https://github.com/pram11/Jet)                             |
 | [Bluesky Expo client](https://github.com/jonsamp/bluesky-expo)                                          | Bluesky Expo client                                                        | [Source](https://github.com/jonsamp/bluesky-expo)                   |
